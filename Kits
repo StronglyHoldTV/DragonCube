@@ -1,0 +1,19 @@
+
+kits:
+  Dragon:
+    delay: 604800
+    items:
+    - DIAMOND_SWORD 1 name:&5&lDragonSword damage_all:5 durability:3 fire_aspect:2
+      loot_bonus_mobs:3
+    - DIAMOND_PICKAXE 1 name:&5&lDragonPickaxe dig_speed:5 durability:3 loot_bonus_blocks:3
+    - DIAMOND_AXE 1 name:&5&lDragonAxe dig_speed:5 damage_all:5 durability:3 loot_bonus_blocks:3
+      fire_aspect:2
+    - DIAMOND_SPADE 1 name:&5&lDragonShovel dig_speed:5 durability:3 loot_bonus_blocks:3
+    - SKULL_ITEM:5 1 name:&4&lDragonHead protection_environmental:4 durability:3 oxygen:3
+      water_worker:1 thorns:3
+    - DIAMOND_CHESTPLATE 1 name:&4&lDragonChestplate protection_environmental:4 durability:3
+      oxygen:3 thorns:3
+    - DIAMOND_LEGGINGS 1 name:&4&lDragonLeggings protection_environmental:4 durability:3
+      oxygen:3 thorns:3
+    - DIAMOND_BOOTS 1 name:&5&lDragonBoots protection_environmental:4 depth_strider:3
+      durability:3 protection_fall:4 oxygen:3 thorns:3
